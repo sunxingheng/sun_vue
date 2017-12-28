@@ -10,6 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "lib-flexible": "^0.3.2",
+    "px2rem-loader": "^0.1.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

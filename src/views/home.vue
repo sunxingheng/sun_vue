@@ -1,7 +1,7 @@
 <template>
 	<div class="home">
 		<div class="home_list">
-			
+			wqe
 		</div>
 	</div>
 </template>

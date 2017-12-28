@@ -1,7 +1,7 @@
 <template>
 	<div class="home">
 		<div class="home_list">
-			123213
+			
 		</div>
 	</div>
 </template>
@@ -11,6 +11,8 @@
 
 <style lang="less">
 	.home{
+		height: 100vh;
+		width: 100vw;
 		.home_list{
 			width: 100%;
 			height: 400px;

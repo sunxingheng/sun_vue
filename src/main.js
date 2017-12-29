@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import 'lib-flexible'
+import normalize from './assets/css/normalize.css'
 import  VueResource  from 'vue-resource'
 
 Vue.use(VueResource) 

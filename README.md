@@ -1,6 +1,6 @@
 # sun_vue
 
-> A Vue.js project
+> one test demo
 
 ## Build Setup
 
